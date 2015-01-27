@@ -1,6 +1,5 @@
 //
 //  CYStatusBarHUD.m
-//  02-网易新闻(优化JS与OC间的通讯)
 //
 //  Created by 陈勇 on 15-1-26.
 //  Copyright (c) 2015年 zhssit. All rights reserved.
